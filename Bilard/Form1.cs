@@ -22,9 +22,8 @@ namespace Bilard
             Pen grayPen = new Pen(Color.Gray, 20);
             SolidBrush greenBrush = new SolidBrush(Color.Green);
             SolidBrush blackBrush = new SolidBrush(Color.Black);
-
             Rectangle table = new Rectangle(25, 25, 615, 315);
-            
+
             Graphics t = CreateGraphics();
             Graphics r = CreateGraphics();
             t.FillRectangle(greenBrush, table);
