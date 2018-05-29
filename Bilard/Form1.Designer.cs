@@ -34,18 +34,21 @@
             // bStart
             // 
             this.bStart.Location = new System.Drawing.Point(0, 0);
+            this.bStart.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.bStart.Name = "bStart";
-            this.bStart.Size = new System.Drawing.Size(75, 23);
+            this.bStart.Size = new System.Drawing.Size(100, 28);
             this.bStart.TabIndex = 0;
             this.bStart.Text = "Start";
             this.bStart.UseVisualStyleBackColor = true;
+            this.bStart.Click += new System.EventHandler(this.bStart_Click);
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(684, 361);
+            this.ClientSize = new System.Drawing.Size(912, 444);
             this.Controls.Add(this.bStart);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.MaximizeBox = false;
             this.Name = "Form1";
             this.Text = "Form1";

@@ -6,3 +6,13 @@ D:\STUDIA\II semestr\Programowanie gier komuterowych\Bilard\Bilard\obj\Debug\Bil
 D:\STUDIA\II semestr\Programowanie gier komuterowych\Bilard\Bilard\obj\Debug\Bilard.csproj.GenerateResource.Cache
 D:\STUDIA\II semestr\Programowanie gier komuterowych\Bilard\Bilard\obj\Debug\Bilard.exe
 D:\STUDIA\II semestr\Programowanie gier komuterowych\Bilard\Bilard\obj\Debug\Bilard.pdb
+D:\Studia\Drugi stopień\II semestr\Programowanie gier komputerowych\Bilard\Bilard\bin\Debug\Bilard.exe.config
+D:\Studia\Drugi stopień\II semestr\Programowanie gier komputerowych\Bilard\Bilard\bin\Debug\Bilard.exe
+D:\Studia\Drugi stopień\II semestr\Programowanie gier komputerowych\Bilard\Bilard\bin\Debug\Bilard.pdb
+D:\Studia\Drugi stopień\II semestr\Programowanie gier komputerowych\Bilard\Bilard\obj\Debug\Bilard.csprojResolveAssemblyReference.cache
+D:\Studia\Drugi stopień\II semestr\Programowanie gier komputerowych\Bilard\Bilard\obj\Debug\Bilard.Form1.resources
+D:\Studia\Drugi stopień\II semestr\Programowanie gier komputerowych\Bilard\Bilard\obj\Debug\Bilard.Properties.Resources.resources
+D:\Studia\Drugi stopień\II semestr\Programowanie gier komputerowych\Bilard\Bilard\obj\Debug\Bilard.csproj.GenerateResource.cache
+D:\Studia\Drugi stopień\II semestr\Programowanie gier komputerowych\Bilard\Bilard\obj\Debug\Bilard.csproj.CoreCompileInputs.cache
+D:\Studia\Drugi stopień\II semestr\Programowanie gier komputerowych\Bilard\Bilard\obj\Debug\Bilard.exe
+D:\Studia\Drugi stopień\II semestr\Programowanie gier komputerowych\Bilard\Bilard\obj\Debug\Bilard.pdb

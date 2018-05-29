@@ -16,5 +16,13 @@ namespace Bilard
         {
             InitializeComponent();
         }
+
+        private void bStart_Click(object sender, EventArgs e)
+        {
+            using (Graphics t = CreateGraphics())
+            {
+                t.DrawRectangle(Pens.Black, 25, 25, 625, 325);
+            }
+        }
     }
 }
