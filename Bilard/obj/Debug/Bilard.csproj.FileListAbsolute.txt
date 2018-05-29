@@ -16,3 +16,4 @@ D:\Studia\Drugi stopień\II semestr\Programowanie gier komputerowych\Bilard\Bila
 D:\Studia\Drugi stopień\II semestr\Programowanie gier komputerowych\Bilard\Bilard\obj\Debug\Bilard.csproj.CoreCompileInputs.cache
 D:\Studia\Drugi stopień\II semestr\Programowanie gier komputerowych\Bilard\Bilard\obj\Debug\Bilard.exe
 D:\Studia\Drugi stopień\II semestr\Programowanie gier komputerowych\Bilard\Bilard\obj\Debug\Bilard.pdb
+D:\STUDIA\II semestr\Programowanie gier komuterowych\Bilard\Bilard\obj\Debug\Bilard.csprojResolveAssemblyReference.cache
